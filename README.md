@@ -3,17 +3,17 @@
 <h2>👨‍💻 IT Automation Projects:</h2>
 
 - <b>🎫 Ticketing System (python)</b>
-  - [Ticketing System ](https://github.com/Dumisani-Baloyi/Ticketing-System/blob/main/README.md)
+  - [Ticketing System ](https://github.com/Dumisani-Baloyi/Ticketing-System)
 - <b>📡 Network Bandwidth Monitor (python)</b>
-  - [Network Bandwidth Monitor](https://github.com/Dumisani-Baloyi/)
+  - [Network Bandwidth Monitor](https://github.com/Dumisani-Baloyi/Network-Bandwidth-Monitor)
 - <b>📋 Scheduled Task Creator (python)</b>
-  - [Scheduled Task Creator](https://github.com/Dumisani-Baloyi/)
+  - [Scheduled Task Creator](https://github.com/Dumisani-Baloyi/Schedule-Task-Creator)
 - <b>📡 Network Ping Tool(python)</b>
-  - [Network Ping Tool](https://github.com/Dumisani-Baloyi/)
+  - [Network Ping Tool](https://github.com/Dumisani-Baloyi/Network-Ping-Tool)
 - <b>💿 Disk space checker (python)</b>
-  - [Disk space checker](https://github.com/Dumisani-Baloyi/)
+  - [Disk space checker](https://github.com/Dumisani-Baloyi/Disk-space-checker)
 - <b>⛓Password Strength Checker(python)</b>
-  - [Password Strength Checker](https://github.com/Dumisani-Baloyi/)
+  - [Password Strength Checker](https://github.com/Dumisani-Baloyi/Password-Strength-Checker)
 
 <h2> 📃 Certificates:</h2>
 
