@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Automation Projects:</h2>
 
 - <b>🎫 Ticketing System (python)</b>
-  - [Ticketing System ](https://github.com/Dumisani-Baloyi/)
+  - [Ticketing System ](https://github.com/Dumisani-Baloyi/Ticketing-System/blob/main/README.md)
 - <b>📡 Network Bandwidth Monitor (python)</b>
   - [Network Bandwidth Monitor](https://github.com/Dumisani-Baloyi/)
 - <b>📋 Scheduled Task Creator (python)</b>
