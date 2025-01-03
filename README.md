@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Automation Projects:</h2>
 
 - <b>📋 All in 1 IT support tool (python)</b>
-  - [All in 1 IT support tool](https://github.com/Dumisani-Baloyi/IT-support-tool)
+  - [All in 1 IT support tool](https://github.com/Dumisani-Baloyi/IT-support-tools)
 - <b>🎫 Ticketing System (python)</b>
   - [Ticketing System ](https://github.com/Dumisani-Baloyi/Ticketing-System)
 - <b>📡 Network Bandwidth Monitor (python)</b>
