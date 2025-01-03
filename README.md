@@ -9,7 +9,7 @@
 - <b>📡 Network Bandwidth Monitor (python)</b>
   - [Network Bandwidth Monitor](https://github.com/Dumisani-Baloyi/Network-Bandwidth-Monitor)
 - <b>📡 Network Ping Tool(python)</b>
-  - [Network Ping Tool](https://github.com/Dumisani-Baloyi/Network-Ping-Tool)
+  - [Network Ping Tool](https://github.com/Dumisani-Baloyi/Network-Ping)
 - <b>💿 Disk space checker (python)</b>
   - [Disk space checker](https://github.com/Dumisani-Baloyi/Disk-space-checker)
 - <b>⛓Password Strength Checker(python)</b>
